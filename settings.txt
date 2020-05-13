@@ -3,8 +3,8 @@
 target_exe = heroesofthestorm_x64.exe
 
 [resolution]
-width = 640
-height = 480
+width = 0
+height = 0
 
 [rendering]
 texture_quality = 1.000000
